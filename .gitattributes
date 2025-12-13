@@ -1,2 +1,0 @@
-Database filter=lfs diff=lfs merge=lfs -text
-Database/Insight_Database_Backup.bak filter=lfs diff=lfs merge=lfs -text
